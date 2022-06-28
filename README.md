@@ -9,6 +9,8 @@ Junior at PES University.
   Aspiring pentester & passionate about cybersecurity.
 
   Trying to learn something new everyday :)    
+  
+  <p><img align="right" src="https://github.com/Kris-Shibu/Kris-Shibu/blob/main/readme.gif" width="220" height="231"/></p>
     
  
 
