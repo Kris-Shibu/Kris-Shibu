@@ -12,7 +12,7 @@ Junior at PES University.
     
  
 
-#Projects I have worked on :
+# Projects I have worked on :
 
 
 # Keylogger in Python
@@ -38,6 +38,6 @@ You can find the project  [here](https://github.com/Kris-Shibu/FTP-Server-Banner
 
 
 # Chat Room in Python  
-  Chat room in python using the socket library 
+  Chat room in python using the socket library.  
   You can find the project  [here](https://github.com/Kris-Shibu/Chat-room)
 
