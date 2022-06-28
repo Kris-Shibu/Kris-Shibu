@@ -31,7 +31,7 @@ You can find the project in action over [here](https://youtu.be/ikcY2dQRDXQ)
 
 
 ## FTP  Banner grabber in Python
-Webservers have banners, this program, using the FTP protocol  will grab the banner of the webserver.  
+Webservers have banners. This program, using the FTP protocol, will grab the banner of the webserver.  
 The banner would contain information about the version of the webserver and the various other services it is running.  
 The attacker can then use this to find exploits for the services the webserver is running.
 
