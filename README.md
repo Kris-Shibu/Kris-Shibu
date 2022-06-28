@@ -17,7 +17,7 @@ Junior at PES University.
 
 # Keylogger in Python
 
-What is a keylogger?
+What is a keylogger?  
 A keylogger is a light but nifty piece of spyware
 that attackers use to record keystrokes the user
 types on his device.
