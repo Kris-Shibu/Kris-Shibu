@@ -9,7 +9,7 @@ Junior at PES University.
   Aspiring pentester & passionate about cybersecurity.
 
   Trying to learn something new everyday :)  
-   ![tryhackme stats](https://raw.githubusercontent.com/SirChocolate/SirChocolate/master/assets/thm_propic.png)
+   <img src="https://tryhackme-badges.s3.amazonaws.com/SirChocolate.png" alt="TryHackMe">
  
   
  
