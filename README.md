@@ -1,16 +1,35 @@
-### Hi there 👋
 
-<!--
-**Kris-Shibu/Kris-Shibu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Kris
+Nice to meet you! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+Junior at PES University.
+  
+  Aspiring pentester & passionate about cybersecurity.
+
+  Trying to learn something new everyday :)    
+    
+ 
+
+
+
+
+# Keylogger in Python
+
+What is a keylogger?
+A keylogger is a light but nifty piece of spyware
+that attackers use to record keystrokes the user
+types on his device.
+
+
+You can find the project [here](https://github.com/Kris-Shibu/Keylogger)
+
+
+# FTP  Banner grabber in Python
+Webservers have banners, this program, using the FTP protocol  will grab the banner of the webserver.  
+The banner would contain information about the version of the webserver and the various other services it is running.  
+The attacker can then use this to find exploits for the services the webserver is running.
+
+
+You can find the project  [here](https://github.com/Kris-Shibu/FTP-Server-Banner-grabber)
