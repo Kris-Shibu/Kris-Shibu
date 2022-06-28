@@ -15,7 +15,7 @@ Junior at PES University.
 # Projects I have worked on :
 
 
-# Keylogger in Python
+ Keylogger in Python
 
 What is a keylogger?  
 A keylogger is a light but nifty piece of spyware
