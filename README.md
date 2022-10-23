@@ -7,6 +7,7 @@ Nice to meet you! 👋
 Junior at PES University.
   
   Aspiring pentester & passionate about cybersecurity.
+  <script src="https://tryhackme.com/badge/195324"></script>
 
   Trying to learn something new everyday :)  
   
