@@ -6,8 +6,9 @@ Nice to meet you! 👋
 ## 🚀 About Me
 Junior at PES University.
   
-   Aspiring pentester & passionate about cybersecurity.
+   Aspiring pentester & passionate about cybersecurity.  
     <img src="https://tryhackme-badges.s3.amazonaws.com/SirChocolate.png" alt="TryHackMe">
+   
 
   Trying to learn something new everyday :)  
   
